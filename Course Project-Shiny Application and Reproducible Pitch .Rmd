@@ -16,6 +16,9 @@ Using PageUp and PageDown keys all the slides can be traversed.
 For more details on authoring R presentations please visit 
 githup:
 https://github.com/Michelletan78/Course-_project_Shiny-Application-and-Reproducible--Pitch
+Rpubs :
+http://rpubs.com/Michelletan78/350853
+
 
 This presentation contains documentation for the Diamond price prediction application. The application can be found <https://michelletan.shinyapps.io/DiamondsApp/>.
 
