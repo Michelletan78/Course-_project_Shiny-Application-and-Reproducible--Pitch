@@ -4,7 +4,7 @@ This peer assessed assignment has two parts. First, you will create a Shiny appl
 
 Your Shiny Application
 you can see the presetion as follows:
-http://127.0.0.1:7765
+https://michelletan.shinyapps.io/DiamondsApp/
 
 Write a shiny application with associated supporting documentation. The documentation should be thought of as whatever a user will need to get started using your application.
 Deploy the application on Rstudio's shiny server
